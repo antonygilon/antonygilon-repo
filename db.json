@@ -1,0 +1,226 @@
+{
+    "requests": [
+      {
+        "id": 1,
+        "name": "Ram",
+        "userid": 1,
+        "amount": "10006330",
+        "salary": "2000",
+        "email": "ram@gmail.com",
+        "aadhar": "542678541254",
+        "pan": "LKJHN1254O",
+        "status": "Approved by Manager",
+        "salesOfficerApproved": true,
+        "supervisorApproved": true,
+        "managerApproved": true,
+        "srManagerApproved": false,
+        "remarks": {
+          "1": "nice",
+          "2": "good",
+          "3": "v",
+          "4": ""
+        }
+      },
+      {
+        "id": 2,
+        "name": "Raj",
+        "userid": 2,
+        "amount": "25999000",
+        "salary": "2000",
+        "email": "raj@gmail.com",
+        "aadhar": "45978652149",
+        "pan": "OPWQS4598M",
+        "status": "Loan Approved by Senior Manager",
+        "salesOfficerApproved": true,
+        "supervisorApproved": true,
+        "managerApproved": true,
+        "srManagerApproved": true,
+        "remarks": {
+          "1": "nice",
+          "2": "gOOD",
+          "3": "Excellent",
+          "4": ""
+        }
+      },
+      {
+        "id": 3,
+        "name": "Ravi",
+        "userid": 3,
+        "amount": "100000",
+        "salary": "8000",
+        "email": "ravi@gmail.com",
+        "aadhar": "985476321485",
+        "pan": "LUNCH1234S",
+        "status": "Rejected",
+        "salesOfficerApproved": false,
+        "supervisorApproved": false,
+        "managerApproved": false,
+        "srManagerApproved": false,
+        "remarks": {
+          "1": "Good",
+          "2": "",
+          "3": "",
+          "4": ""
+        }
+      },
+      {
+        "id": 4,
+        "name": "Kaviya",
+        "amount": "2500000",
+        "userid": 4,
+        "salary": "8000",
+        "email": "kavi@gmail.com",
+        "aadhar": "45978652149",
+        "pan": "OPWQS4598M",
+        "status": "Loan Approved by Senior Manager",
+        "salesOfficerApproved": true,
+        "supervisorApproved": true,
+        "managerApproved": true,
+        "srManagerApproved": true,
+        "remarks": {
+          "1": "Nice",
+          "2": "Good",
+          "3": "Excellent",
+          "4": "brilliant"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Shalini",
+        "amount": "25999000",
+        "userid": 5,
+        "salary": "2000",
+        "email": "shals@gmail.com",
+        "aadhar": "45978652149",
+        "pan": "OPWQS4598M",
+        "status": "Loan Approved by Senior Manager",
+        "salesOfficerApproved": true,
+        "supervisorApproved": true,
+        "managerApproved": true,
+        "srManagerApproved": true,
+        "remarks": {
+          "1": "nice",
+          "2": "Good",
+          "3": "nice",
+          "4": "Super"
+        }
+      },
+      {
+        "id": 6,
+        "name": "Jayashree",
+        "userid": 6,
+        "amount": 2100000,
+        "salary": 45000,
+        "aadhar": 754685489548,
+        "pan": "PODJD7854K",
+        "status": "Loan Approved by Senior Manager",
+        "salesOfficerApproved": true,
+        "supervisorApproved": true,
+        "managerApproved": true,
+        "srManagerApproved": true,
+        "remarks": {
+          "1": "nice",
+          "2": "Good",
+          "3": "Better",
+          "4": "Done"
+        }
+      },
+      {
+        "name": "Sujithra",
+        "amount": 45125826,
+        "userid": "8",
+        "aadhar": 878933132156,
+        "pan": "NFHRK4578A",
+        "salary": 25000,
+        "status": "Requested",
+        "salesOfficerApproved": false,
+        "supervisorApproved": false,
+        "managerApproved": false,
+        "srManagerApproved": false,
+        "salesOfficerremarks": "",
+        "supervisorRemarks": "",
+        "managerRemarks": "",
+        "srManagerRemarks": "",
+        "id": 7
+      }
+    ],
+    "bank-officers": [
+      {
+        "id": 101,
+        "level": "1",
+        "username": "Sakthi",
+        "password": "sakthi"
+      },
+      {
+        "id": 102,
+        "level": "1",
+        "username": "Kumar",
+        "password": "kumar"
+      },
+      {
+        "id": 203,
+        "level": "2",
+        "username": "Aravind",
+        "password": "aravind"
+      },
+      {
+        "id": 304,
+        "level": "3",
+        "username": "Ashok",
+        "password": "ashok"
+      },
+      {
+        "id": 405,
+        "level": "4",
+        "username": "Maaran",
+        "password": "maaran"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "Ram",
+        "password": "ram"
+      },
+      {
+        "id": 2,
+        "username": "Raj",
+        "password": "raj"
+      },
+      {
+        "id": 3,
+        "username": "Ravi",
+        "password": "ravi"
+      },
+      {
+        "id": 4,
+        "username": "kaviya",
+        "password": "kaviya"
+      },
+      {
+        "id": 5,
+        "username": "Shalini",
+        "password": "shalini"
+      },
+      {
+        "id": 6,
+        "username": "Jayashree",
+        "password": "Jayashree"
+      },
+      {
+        "id": 7,
+        "username": "Antony",
+        "password": "Antony"
+      },
+      {
+        "id": 8,
+        "username": "Sujithra",
+        "password": "Sujithra"
+      },
+      {
+        "id": 9,
+        "username": "Aishwarya",
+        "password": "Aishwarya"
+      }
+    ]
+  }
